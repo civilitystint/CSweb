@@ -1,0 +1,61 @@
+body {
+  font-family: serif;
+  font-style: oblique;
+  background-color: #000000;
+  text-align: center;
+  padding: 50px;
+}
+
+title {
+  color: #ffffff
+}
+
+h1 {
+  color: #ffffff;
+  font-family: serif;
+  font-style: normal;
+}
+
+p {
+  color: #ffffff
+}
+
+.center-container {
+  text-align: center
+}
+
+
+.logo {
+  width: 200px;
+  margin-top: 20px;
+}
+
+.about {
+  color: #ffffff
+}
+
+
+.button-group {
+  text-align: center;
+  /* center buttons */
+  margin-top: 15px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #801f2f;
+  color: white;
+  padding: 8px 20px;
+  margin: 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  /* slightly lighter on hover */
+  color: #000000
+}

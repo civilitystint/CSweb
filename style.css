@@ -16,8 +16,22 @@ h1 {
   font-style: normal;
 }
 
+h2 {
+  color:#f47796;
+  font-family: serif;
+  font-style: normal;
+}
+
+h4 { 
+  color:#f47796;
+  font-style: normal;
+}
+
 p {
-  color: #ffffff
+  color: #ffffff;
+  font-family: serif;
+  font-style: normal;
+  line-height: 30px;
 }
 
 .center-container {

@@ -3,7 +3,7 @@ body {
   font-style: oblique;
   background-color: #000000;
   text-align: center;
-  padding: 50px;
+  padding: 10px;
 }
 
 title {
@@ -17,12 +17,12 @@ h1 {
 }
 
 h2 {
-  color: #f47796;
+  color: #f9ccd8;
   font-family: serif;
   font-style: normal;
 }
 
-h4 {
+h3 {
   color: #f47796;
   font-style: normal;
 }
@@ -31,7 +31,7 @@ p {
   color: #ffffff;
   font-family: serif;
   font-style: normal;
-  line-height: 30px;
+  line-height: 40px;
 }
 
 .center-container {
@@ -44,32 +44,48 @@ p {
   margin-top: 20px;
 }
 
+.header-logo {
+  width: 200px
+}
+
+.home-header {
+  width: 600px;
+  margin-top: 40px;
+}
+
+.profilepic {
+  width: 300px;
+  margin-top: 1px;
+}
+
 .about {
   color: #ffffff
 }
 
-
-.button-group {
-  text-align: center;
-  /* center buttons */
-  margin-top: 15px;
+.topnav {
+  background-color: #d45b79;
+  overflow: hidden;
 }
 
-.btn {
-  display: inline-block;
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  font-style: normal;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
   background-color: #801f2f;
   color: white;
-  padding: 8px 20px;
-  margin: 10px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 16px;
-  transition: background-color 0.3s ease;
-}
-
-.btn:hover {
-  background-color: #ffffff;
-  /* slightly lighter on hover */
-  color: #000000
 }

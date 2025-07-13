@@ -64,8 +64,20 @@ p {
 
 .Youtube_logo {
   width: 100px;
+}
 
+.Instagram_icon {
+  width: 100px;
+  padding-right: 30px;
+}
 
+.AM_icon {
+  width: 100px;
+  padding-right: 30px;
+}
+
+.Pinterest-logo {
+  width: 100px;
 }
 
 .topnav {

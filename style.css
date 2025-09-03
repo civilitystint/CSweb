@@ -14,16 +14,20 @@ h1 {
   color: #ffffff;
   font-family: serif;
   font-style: normal;
+  text-decoration: none;
 }
 
 h2 {
   color: #ffffff;
   font-family: serif;
   font-style: normal;
+  text-decoration: none;
+  line-height: 35px;
 }
 
 h3 {
-  color: #f47796;
+  color: #c28cf7;
+  font-family: serif;
   font-style: normal;
 }
 
@@ -44,8 +48,9 @@ p {
   margin-top: 20px;
 }
 
-.header-logo {
-  width: 200px
+.banner-logo {
+  width: 170px;
+  
 }
 
 .home-header {
@@ -84,9 +89,23 @@ p {
   width: 300px;
 }
 
+.flyer {
+  width: 450px;
+  align-items: center;
+}
+
+.home-flyer {
+  width: 450px;
+}
+
 .topnav {
-  background-color: #360511;
+  background-color: #220536;
   overflow: hidden;
+}
+
+.toplogolink {
+  float: left;
+  width: 200px;
 }
 
 /* Style the links inside the navigation bar */
@@ -95,19 +114,20 @@ p {
   color: #f2f2f2;
   text-align: center;
   font-style: normal;
-  padding: 14px 16px;
+  padding: 10px 15px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #baacc9;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #801f2f;
+  background-color: #270a53;
   color: white;
 }
+

@@ -1,7 +1,7 @@
 body {
-  font-family: serif;
+  font-family: sans-serif;
   font-style: oblique;
-  background-color: #000000;
+  background-color: #260334;
   text-align: center;
   padding: 10px;
 }
@@ -12,28 +12,28 @@ title {
 
 h1 {
   color: #ffffff;
-  font-family: serif;
+  font-family: sans-serif;
   font-style: normal;
   text-decoration: none;
 }
 
 h2 {
   color: #ffffff;
-  font-family: serif;
+  font-family: sans-serif;
   font-style: normal;
   text-decoration: none;
   line-height: 35px;
 }
 
 h3 {
-  color: #c28cf7;
-  font-family: serif;
+  color: #cb8cf7;
+  font-family: sans-serif;
   font-style: normal;
 }
 
 p {
   color: #ffffff;
-  font-family: serif;
+  font-family: sans-serif;
   font-style: normal;
   line-height: 40px;
 }
@@ -50,7 +50,7 @@ p {
 
 .banner-logo {
   width: 170px;
-  
+
 }
 
 .home-header {
@@ -73,7 +73,6 @@ p {
 
 .Instagram_icon {
   width: 100px;
-  padding-right: 30px;
 }
 
 .AM_icon {
@@ -99,13 +98,67 @@ p {
 }
 
 .topnav {
-  background-color: #220536;
+  background-color: #4f0972;
   overflow: hidden;
 }
 
 .toplogolink {
   float: left;
   width: 200px;
+}
+
+.apple-music-music-page {
+  width: 100px;
+}
+
+.Spotify_logo {
+  width: 100px;
+  padding-left: 30px;
+}
+
+.YTMusic-icon {
+  width: 100px;
+  padding-left: 30px;
+}
+
+.Amazon-logo {
+  width: 140px;
+}
+
+.Deezer-logo {
+  width: 110px;
+  padding-left: 30px;
+}
+
+.Pandora-logo {
+  width: 250px;
+}
+
+.heart-radio-logo {
+  width: 150px;
+}
+
+.Tidal-logo {
+  width: 110px;
+  padding-left: 30px;
+}
+
+.insta-logo-music {
+  width: 120px;
+}
+
+.tiktok-logo {
+  width: 120px;
+  padding-left: 30px;
+}
+
+.Snapchat_logo {
+  width: 125px;
+  padding-left: 30px;
+}
+
+.cs-logo-about {
+  width: 50px
 }
 
 /* Style the links inside the navigation bar */
@@ -121,13 +174,12 @@ p {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #baacc9;
+  background-color: #c1acc9;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #270a53;
+  background-color: #3b0a53;
   color: white;
 }
-

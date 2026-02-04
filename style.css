@@ -58,6 +58,12 @@ p {
   margin-top: 40px;
 }
 
+.index-BPB {
+  width: 400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .profilepic {
   width: 300px;
   margin-top: 1px;
@@ -95,6 +101,8 @@ p {
 
 .home-flyer {
   width: 450px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .topnav {

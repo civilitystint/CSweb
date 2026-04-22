@@ -2,9 +2,14 @@ body {
   font-family: sans-serif;
   font-style: oblique;
   background-color: #260334;
+  background-image: linear-gradient(to bottom, #260334, rgb(145, 93, 177));
   text-align: center;
   padding: 10px;
 }
+
+
+
+
 
 title {
   color: #ffffff
@@ -26,7 +31,7 @@ h2 {
 }
 
 h3 {
-  color: #dab0f8;
+  color: #e8caff;
   font-family: sans-serif;
   font-style: normal;
 }
@@ -167,6 +172,14 @@ p {
 
 .cs-logo-about {
   width: 50px
+}
+
+.handwritten-note {
+  width: 350px
+}
+
+.SOI-text {
+  line-height: 35px;
 }
 
 /* Style the links inside the navigation bar */

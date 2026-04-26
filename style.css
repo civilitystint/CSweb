@@ -130,52 +130,65 @@ p {
 
 .apple-music-music-page {
   width: 100px;
+  filter: grayscale(100%);
 }
 
 .Spotify_logo {
   width: 100px;
   padding-left: 30px;
+  filter: grayscale(100%);
+
 }
 
 .YTMusic-icon {
   width: 100px;
   padding-left: 30px;
+  filter: grayscale(100%);
 }
 
 .Amazon-logo {
   width: 140px;
+  filter: grayscale(100%);
 }
 
 .Deezer-logo {
   width: 110px;
   padding-left: 30px;
+  filter: grayscale(100%);
 }
 
 .Pandora-logo {
   width: 250px;
+  filter: grayscale(100%);
 }
 
 .heart-radio-logo {
   width: 150px;
+  filter: grayscale(100%);
 }
 
 .Tidal-logo {
   width: 110px;
   padding-left: 30px;
+  filter: grayscale(100%);
 }
 
 .insta-logo-music {
   width: 120px;
+  filter: grayscale(100%);
 }
 
 .tiktok-logo {
   width: 120px;
   padding-left: 30px;
+  filter: grayscale(100%);
 }
+
 
 .Snapchat_logo {
   width: 125px;
   padding-left: 30px;
+  filter: grayscale(100%);
 }
 
 .cs-logo-about {
@@ -188,6 +201,7 @@ p {
 
 .SOI-text {
   line-height: 35px;
+  color: #ffffff;
 }
 
 /* Style the links inside the navigation bar */

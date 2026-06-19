@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   font-style: oblique;
   background-color: #260334;
-  background-image: linear-gradient(to bottom, #260334, rgb(145, 93, 177));
+  background-image: linear-gradient(to bottom, #190334, rgb(113, 88, 184));
   text-align: center;
   padding: 10px;
 }
@@ -27,7 +27,7 @@ h2 {
 }
 
 h3 {
-  color: #d1aff5;
+  color: #c0a2ff;
   font-family: sans-serif;
   font-style: normal;
   line-height: 30px;
@@ -45,7 +45,7 @@ p {
 }
 
 .bottom-ribbon {
-  background-color: #38084b;
+  background-color: #26084b;
   padding-block: 10px;
   padding-inline: 15px;
 }
@@ -62,7 +62,7 @@ p {
 
 .banner-logo {
   width: 170px;
-
+  margin-block: ;
 }
 
 .home-header {
@@ -119,7 +119,7 @@ p {
 }
 
 .topnav {
-  background-color: #4f0972;
+  background-color: #3d0972;
   overflow: hidden;
 }
 
@@ -130,65 +130,65 @@ p {
 
 .apple-music-music-page {
   width: 100px;
-  filter: grayscale(100%);
+
 }
 
 .Spotify_logo {
   width: 100px;
   padding-left: 30px;
-  filter: grayscale(100%);
+
 
 }
 
 .YTMusic-icon {
   width: 100px;
   padding-left: 30px;
-  filter: grayscale(100%);
+
 }
 
 .Amazon-logo {
   width: 140px;
-  filter: grayscale(100%);
+
 }
 
 .Deezer-logo {
   width: 110px;
   padding-left: 30px;
-  filter: grayscale(100%);
+
 }
 
 .Pandora-logo {
   width: 250px;
-  filter: grayscale(100%);
+
 }
 
 .heart-radio-logo {
   width: 150px;
-  filter: grayscale(100%);
+
 }
 
 .Tidal-logo {
   width: 110px;
   padding-left: 30px;
-  filter: grayscale(100%);
+
 }
 
 .insta-logo-music {
   width: 120px;
-  filter: grayscale(100%);
+
 }
 
 .tiktok-logo {
   width: 120px;
   padding-left: 30px;
-  filter: grayscale(100%);
+
 }
 
 
 .Snapchat_logo {
   width: 125px;
   padding-left: 30px;
-  filter: grayscale(100%);
+
 }
 
 .cs-logo-about {
@@ -204,6 +204,10 @@ p {
   color: #ffffff;
 }
 
+.index-logo {
+  width: 600px;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
@@ -217,12 +221,12 @@ p {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #c1acc9;
+  background-color: #b7acc9;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #3b0a53;
+  background-color: #270a53;
   color: white;
 }
